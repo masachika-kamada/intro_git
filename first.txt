@@ -1,3 +1,4 @@
 masachika
 
-unko
+・git add
+・git commit
